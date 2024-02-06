@@ -1,0 +1,229 @@
+,country_code,country_name
+0,AF,Afghanistan
+1,AL,Albania
+2,AG,Algeria
+3,AQ,American Samoa
+4,AN,Andorra
+5,AO,Angola
+6,AV,Anguilla
+7,AC,Antigua and Barbuda
+8,AR,Argentina
+9,AM,Armenia
+10,AA,Aruba
+11,AS,Australia
+12,AU,Austria
+13,AJ,Azerbaijan
+14,BF,"Bahamas, The"
+15,BA,Bahrain
+16,BG,Bangladesh
+17,BB,Barbados
+18,BO,Belarus
+19,BE,Belgium
+20,BH,Belize
+21,BN,Benin
+22,BD,Bermuda
+23,BT,Bhutan
+24,BL,Bolivia
+25,BK,Bosnia and Herzegovina
+26,BC,Botswana
+27,BR,Brazil
+28,BX,Brunei
+29,BU,Bulgaria
+30,UV,Burkina Faso
+31,BM,Burma
+32,BY,Burundi
+33,CV,Cabo Verde
+34,CB,Cambodia
+35,CM,Cameroon
+36,CA,Canada
+37,CJ,Cayman Islands
+38,CT,Central African Republic
+39,CD,Chad
+40,CI,Chile
+41,CH,China
+42,CO,Colombia
+43,CN,Comoros
+44,CF,Congo (Brazzaville)
+45,CG,Congo (Kinshasa)
+46,CW,Cook Islands
+47,CS,Costa Rica
+48,IV,Cote d'Ivoire
+49,HR,Croatia
+50,CU,Cuba
+51,UC,Curacao
+52,CY,Cyprus
+53,EZ,Czechia
+54,DA,Denmark
+55,DJ,Djibouti
+56,DO,Dominica
+57,DR,Dominican Republic
+58,EC,Ecuador
+59,EG,Egypt
+60,ES,El Salvador
+61,EK,Equatorial Guinea
+62,ER,Eritrea
+63,EN,Estonia
+64,WZ,Eswatini
+65,ET,Ethiopia
+66,FO,Faroe Islands
+67,FJ,Fiji
+68,FI,Finland
+69,FR,France
+70,FP,French Polynesia
+71,GB,Gabon
+72,GA,"Gambia, The"
+73,GZ,Gaza Strip
+74,GG,Georgia
+75,GM,Germany
+76,GH,Ghana
+77,GI,Gibraltar
+78,GR,Greece
+79,GL,Greenland
+80,GJ,Grenada
+81,GQ,Guam
+82,GT,Guatemala
+83,GK,Guernsey
+84,GV,Guinea
+85,PU,Guinea-Bissau
+86,GY,Guyana
+87,HA,Haiti
+88,HO,Honduras
+89,HK,Hong Kong
+90,HU,Hungary
+91,IC,Iceland
+92,IN,India
+93,ID,Indonesia
+94,IR,Iran
+95,IZ,Iraq
+96,EI,Ireland
+97,IM,Isle of Man
+98,IS,Israel
+99,IT,Italy
+100,JM,Jamaica
+101,JA,Japan
+102,JE,Jersey
+103,JO,Jordan
+104,KZ,Kazakhstan
+105,KE,Kenya
+106,KR,Kiribati
+107,KN,"Korea, North"
+108,KS,"Korea, South"
+109,KV,Kosovo
+110,KU,Kuwait
+111,KG,Kyrgyzstan
+112,LA,Laos
+113,LG,Latvia
+114,LE,Lebanon
+115,LT,Lesotho
+116,LI,Liberia
+117,LY,Libya
+118,LS,Liechtenstein
+119,LH,Lithuania
+120,LU,Luxembourg
+121,MC,Macau
+122,MK,Macedonia
+123,MA,Madagascar
+124,MI,Malawi
+125,MY,Malaysia
+126,MV,Maldives
+127,ML,Mali
+128,MT,Malta
+129,RM,Marshall Islands
+130,MR,Mauritania
+131,MP,Mauritius
+132,MX,Mexico
+133,FM,"Micronesia, Federated States of"
+134,MD,Moldova
+135,MN,Monaco
+136,MG,Mongolia
+137,MJ,Montenegro
+138,MH,Montserrat
+139,MO,Morocco
+140,MZ,Mozambique
+141,WA,Namibia
+142,NR,Nauru
+143,NP,Nepal
+144,NL,Netherlands
+145,NC,New Caledonia
+146,NZ,New Zealand
+147,NU,Nicaragua
+148,NG,Niger
+149,NI,Nigeria
+150,CQ,Northern Mariana Islands
+151,NO,Norway
+152,MU,Oman
+153,PK,Pakistan
+154,PS,Palau
+155,PM,Panama
+156,PP,Papua New Guinea
+157,PA,Paraguay
+158,PE,Peru
+159,RP,Philippines
+160,PL,Poland
+161,PO,Portugal
+162,RQ,Puerto Rico
+163,QA,Qatar
+164,RO,Romania
+165,RS,Russia
+166,RW,Rwanda
+167,TB,Saint Barthelemy
+168,SH,"Saint Helena, Ascension, and Tristan da Cunha"
+169,SC,Saint Kitts and Nevis
+170,ST,Saint Lucia
+171,RN,Saint Martin
+172,SB,Saint Pierre and Miquelon
+173,VC,Saint Vincent and the Grenadines
+174,WS,Samoa
+175,SM,San Marino
+176,TP,Sao Tome and Principe
+177,SA,Saudi Arabia
+178,SG,Senegal
+179,RI,Serbia
+180,SE,Seychelles
+181,SL,Sierra Leone
+182,SN,Singapore
+183,NN,Sint Maarten
+184,LO,Slovakia
+185,SI,Slovenia
+186,BP,Solomon Islands
+187,SO,Somalia
+188,SF,South Africa
+189,OD,South Sudan
+190,SP,Spain
+191,CE,Sri Lanka
+192,SU,Sudan
+193,NS,Suriname
+194,SW,Sweden
+195,SZ,Switzerland
+196,SY,Syria
+197,TW,Taiwan
+198,TI,Tajikistan
+199,TZ,Tanzania
+200,TH,Thailand
+201,TT,Timor-Leste
+202,TO,Togo
+203,TN,Tonga
+204,TD,Trinidad and Tobago
+205,TS,Tunisia
+206,TU,Turkey
+207,TX,Turkmenistan
+208,TK,Turks and Caicos Islands
+209,TV,Tuvalu
+210,UG,Uganda
+211,UP,Ukraine
+212,AE,United Arab Emirates
+213,UK,United Kingdom
+214,US,United States
+215,UY,Uruguay
+216,UZ,Uzbekistan
+217,NH,Vanuatu
+218,VE,Venezuela
+219,VM,Vietnam
+220,VI,"Virgin Islands, British"
+221,VQ,"Virgin Islands, U.S."
+222,WF,Wallis and Futuna
+223,WE,West Bank
+224,WI,Western Sahara
+225,YM,Yemen
+226,ZA,Zambia
+227,ZI,Zimbabwe
