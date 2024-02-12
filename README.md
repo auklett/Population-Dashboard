@@ -3,7 +3,7 @@ Interactive World Population Dashboard made with Power BI
 <br />
 <img src="https://github.com/auklett/Population-Dashboard/blob/main/world2022.png" width=50%>
 <br />
-1.Data Collection and Cleaning
+## 1. Data Collection and Cleaning
 <br />
 The data is based on the world population estimates of the United States Census Bureau <br />
 https://console.cloud.google.com/marketplace/product/united-states-census-bureau/international-census-data  <br /><br />
@@ -16,7 +16,7 @@ https://github.com/auklett/Population-Dashboard/blob/main/population_edit.csv
 The TopoJSON from https://github.com/topojson/world-atlas?tab=readme-ov-file was also slightly edited to fit the data.
 https://github.com/auklett/Population-Dashboard/blob/main/countries_edit.json
 <br /><br />
-2.Features of the Dashboard
+## 2. Features of the Dashboard
 <br />
 a. Year Slider (1960-2022) <br />
 b. Population count and Country Selected <br />
