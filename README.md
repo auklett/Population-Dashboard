@@ -25,8 +25,9 @@ d. Population Pyramid (male-left, female-right) <br />
 e. Most Densely Populated Countries <br />
 f. Most Populated Countries <br />
 g. Highest Population Growth Rate <br />
-<img src="https://github.com/auklett/Population-Dashboard/blob/main/Philippines2010.png" width=50%>
-<img src="https://github.com/auklett/Population-Dashboard/blob/main/World2000.png" width=50%>
-<img src="https://github.com/auklett/Population-Dashboard/blob/main/China2013.png" width=50%>
+##
+<img src="https://github.com/auklett/Population-Dashboard/blob/main/Philippines2010.png" width=50%><br />
+<img src="https://github.com/auklett/Population-Dashboard/blob/main/World2000.png" width=50%><br />
+<img src="https://github.com/auklett/Population-Dashboard/blob/main/China2013.png" width=50%><br />
 
 
