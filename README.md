@@ -1,7 +1,7 @@
 # Population-Dashboard
 Interactive World Population Dashboard made with Power BI
 ##
-<img src="https://github.com/auklett/Population-Dashboard/blob/main/world2022.png" width=50%>
+<img src="https://github.com/auklett/Population-Dashboard/blob/main/world2022.png">
 
 ## 1. Data Collection and Cleaning
 ##
